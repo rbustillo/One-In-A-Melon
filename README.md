@@ -8,4 +8,3 @@ Welcome and Results Screen:
 
 Poster presented at the Central Arkansas Undergraduate Summer Research Symposium 2022:
 ![Poster2022_Final (1)-1](https://user-images.githubusercontent.com/74802038/182209221-511b95b1-e53f-472b-84eb-63097bbfa76a.png)
-"# One-In-A-Melon" 
